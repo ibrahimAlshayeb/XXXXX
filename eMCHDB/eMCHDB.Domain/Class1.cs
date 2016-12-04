@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace eMCHDB.Domain
 {
-    public class Class1
+    public class sdcsdc
     {
     }
 }
